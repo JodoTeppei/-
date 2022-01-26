@@ -28,7 +28,7 @@ class(pred)
 plot(pred)
 legend("topleft",
        legend = c("pred", "actual"),
-       lty = c(2, 1),
+       lty = c(2, 1)
        lwd = 2,
        col = c(4, 1),
        cex = 1.5,
